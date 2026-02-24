@@ -4,9 +4,9 @@ project:
 
 website:
   title: "YOUR NAME"
-  #site-url: https://kkalkunte.github.io/kk_notebook/
+  site-url: https://kkalkunte.github.io/kk_notebook/
   #google-analytics: # something to come here
-  #site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+
   navbar:
     logo: headshots/logo.png
     left:
@@ -16,13 +16,13 @@ website:
         href: notebook.qmd
       - text: "Lab Handbook"
         href: https://alcalalab.github.io/resources/
- #    right:
- #     - icon: github
- #       href: YOUR GITHUB
+    right:
+      - icon: github
+        href: https://github.com/kkalkunte
   
   page-footer:
     left: |
-      © 2026 Your Name
+      © 2026 Kamna Kalkunte
 
 format:
   html:
