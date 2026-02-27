@@ -15,11 +15,11 @@ Spring 2026 goals
 
 ### Writing and Manuscripts 
 
-1. Something
+1. Compile an annotated bibliography of non-oxygenic respiration in eukaryotes
 
 ### Analysis and Benchwork
 
-1. Something
+1. Conduct at least one sampling excursion
 
 ### Funding
 
@@ -31,6 +31,6 @@ Spring 2026 goals
 
 # Primary Skill Building
 
-- [ ] something
-- [ ] something
-- [ ] something
+- [ ] Microscopy
+- [ ] Sampling Techniques
+- [ ] Culturing Samples
