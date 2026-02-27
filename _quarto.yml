@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOUR NAME"
+  title: "Kamna Kalkunte"
   site-url: https://kkalkunte.github.io/kk_notebook/
   #google-analytics: # something to come here
 
